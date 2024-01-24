@@ -7,6 +7,7 @@
 ### Table of Contents
 
 - [Description](#description)
+- [Technologies](#technologies)
 - [Author Info](#author-info)
 
 ## Description
@@ -17,7 +18,7 @@ snapOverview allows users to quickly summarise long form articles into concise a
 
 ---
 
-#### Technologies
+### Technologies
 
 - HTML5
 - CSS3
