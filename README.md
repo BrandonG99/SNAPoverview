@@ -2,7 +2,7 @@
 
 ![Project Image](snap-overview-img-1.png)
 
-> snapOverview - An easy to use AI article summariser.
+> SNAPoverview - An easy to use AI article summariser.
 
 ## Table of Contents
 
