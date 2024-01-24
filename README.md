@@ -18,7 +18,7 @@ snapOverview allows users to quickly summarise long form articles into concise a
 
 ---
 
-### Technologies
+## Technologies
 
 - HTML5
 - CSS3
