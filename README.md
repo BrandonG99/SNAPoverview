@@ -25,7 +25,7 @@ SNAPoverview allows users to quickly summarise long form articles into concise a
 - JavaScript
 - React
 
-[Back To The Top](#snapoverview)
+[Back To The Top](#technologies)
 
 ---
 
