@@ -1,4 +1,4 @@
-# snapOverview
+# SNAPoverview
 
 ![Project Image](snap-overview-img-1.png)
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-snapOverview allows users to quickly summarise long form articles into concise and easy to read summaries, allowing the user to find out whether reading the entire article is going to be worth their time and effort.
+SNAPoverview allows users to quickly summarise long form articles into concise and easy to read summaries, allowing the user to find out whether reading the entire article is going to be worth their time and effort.
 
 [Back To The Top](#snapoverview)
 
