@@ -4,7 +4,7 @@
 
 > snapOverview - An easy to use AI article summariser.
 
-### Table of Contents
+## Table of Contents
 
 - [Description](#description)
 - [Technologies](#technologies)
